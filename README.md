@@ -1,5 +1,7 @@
 # Explainable Neural Computation via Stack Neural Module Networks
 
+This repository is created for academic research purpose. Please visit the [original](https://github.com/ronghanghu/snmn) github repository for further details.
+
 This repository contains the code for the following paper:
 
 * R. Hu, J. Andreas, T. Darrell, K. Saenko, *Explainable Neural Computation via Stack Neural Module Networks*. in ECCV, 2018. ([PDF](https://arxiv.org/pdf/1807.08556.pdf))
